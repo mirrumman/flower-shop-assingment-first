@@ -166,7 +166,7 @@ h3{
 /* Latest deal Section */
 
 .latest-deal{
-    background-image: url(/images/Rectangle\ 9.png);
+    background-image: url("/images/Rectangle\ 9.png");
     width: 1440px;
     height: 449px;
     border-radius: 8px;
