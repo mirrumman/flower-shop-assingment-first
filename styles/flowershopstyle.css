@@ -65,6 +65,7 @@ h2{
 }
 h4{
     font-size: 40px;
+    font-weight: 700;
 }
 .hot-deal-paragraph{
     color: rgba(39, 39, 39, 0.60);
@@ -72,8 +73,11 @@ h4{
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    
+    padding: 0px 100px 0px 230px;
+}
 
+#hot-offer{
+    color: #E55473;
 }
 
 .hot-deal-image{
