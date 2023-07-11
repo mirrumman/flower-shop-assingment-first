@@ -54,13 +54,13 @@ h2{
     height: 620px;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
-    margin: 150px 0px;
+    margin: 100px 0px;
     display: flex;
     justify-content: center;
 }
 
 .hot-deal-description{
-    margin: 230px 0px;
+    margin: 200px 0px;
     text-align: center;
 }
 h4{
@@ -73,7 +73,7 @@ h4{
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    padding: 0px 100px 0px 230px;
+    padding: 10px 400px;
 }
 
 #hot-offer{
@@ -82,4 +82,33 @@ h4{
 
 .hot-deal-image{
     padding: 100px 150px 100px 0px;
+}
+.social-media-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 25px;
+}
+
+.media-advertise{
+    background: #FFF;
+}
+
+.social-media{
+    text-align: center;
+}
+.social-media-paragraph{
+    padding:0px 630px;
+    margin-bottom: 20px;
+}
+.advertising-image{
+    display: flex;
+    gap: 15px;
+    margin: 20px 240px;
+    
+}
+.container-image{
+    width: 342px;
+    height: 396px;
 }
