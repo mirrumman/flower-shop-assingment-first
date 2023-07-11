@@ -60,10 +60,10 @@ h2{
 }
 
 .hot-deal-description{
-    margin: 200px 0px;
+    margin: 180px 0px;
     text-align: center;
 }
-h4{
+h3{
     font-size: 40px;
     font-weight: 700;
 }
@@ -111,4 +111,80 @@ h4{
 .container-image{
     width: 342px;
     height: 396px;
+}
+
+/* Latest deal Section */
+
+.latest-deal{
+    background-image: url(/images/Rectangle\ 9.png);
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    margin: 128px 240px;
+}
+
+.Get-latest-deal{
+    text-align: center;
+    padding: 120px 500px 10px 500px;
+}
+.latest-deal-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;  
+}
+
+.subcription-form input{
+    justify-content: center;
+    gap:20px;
+
+}
+.email-input{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    margin-left: 250px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 20px;
+}
+.button-input{
+    width: 150px;
+    height: 68px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* footer section */
+.footer-section{
+    width: auto;
+    height: 450px;
+    background: #111010;
+    text-align: center;
+}
+.footer-heading{
+    color:#FFF;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: normal;
+    padding:130px 600px 0px 600px;
+}
+.footer-paragraph{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 600px;
+}
+
+.copy-right{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
 }
