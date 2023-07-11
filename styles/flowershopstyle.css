@@ -49,6 +49,53 @@ h2{
 
 
 /* Main Section */
+
+.feature-section{
+    background: #FFF;
+    margin: 150px 0px;
+
+}
+.feature-flower{
+    text-align: center;
+}
+.feature-image{
+    display: flex;
+    gap: 20px;
+    margin: 0px 350px;
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.pink-flower{
+    width: 400px;
+    height: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);  
+}
+.paste-flower{
+    width: 400px;
+    height: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.lightgreen-flower{
+    width: 400px;
+    height: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+
+}
+
+.link{
+    display: flex;
+    text-align: center;
+    gap: 50px;
+    margin: 0px 300px;
+    justify-content: space-around;
+}
+
+/* main-hot-deal-section */
 .hot-deal{
     width: 100%px;
     height: 620px;
@@ -83,6 +130,8 @@ h3{
 .hot-deal-image{
     padding: 100px 150px 100px 0px;
 }
+
+/* main-social-media-section */
 .social-media-paragraph{
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
@@ -188,3 +237,4 @@ h3{
     font-size: 16px;
     font-weight: 400;
 }
+
